@@ -1,3 +1,5 @@
+# This is my work (^_^)
+
 favorite_number = 4
 
 print("For picking this objective, I needed time for picking my favorite number. After thinking about it for a while, I")

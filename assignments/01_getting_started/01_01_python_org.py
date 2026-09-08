@@ -1,3 +1,5 @@
+# This is my work (^_^)
+
 """ The python website has many different resources for assisting with python coding.
 It has forums, which allow for discussion and help with issues that you may have durring 
 coding. It holds resources for coding such as secondary aplications which assist with the

@@ -1,3 +1,5 @@
+# This is my work (^_^)
+
 """If I was to have infinite coding skills, I would like to create a game that is
 completely fair and balanced for all players. Many games today have balancing issues that
 make the game unfun for most people and lead to 'metas' which eventually make the game
