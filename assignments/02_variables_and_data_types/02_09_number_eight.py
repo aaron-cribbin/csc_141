@@ -1,4 +1,6 @@
 # This is my work (^_^)
+# All of this is written by me
+# Aaron Cribbin
 
 print(2.59+5.41)
 print(12-4)

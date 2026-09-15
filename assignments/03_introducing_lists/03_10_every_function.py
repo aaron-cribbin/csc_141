@@ -1,4 +1,6 @@
 # This is my work (^_^)
+# All of this is written by me
+# Aaron Cribbin
 
 sephirah = ["Malkuth", "Yesod", "Hod", "Netzach", "Tiphereth_A", "Gebura", "Chesed", "Binah", 
             "Hokmah", "Kether"]

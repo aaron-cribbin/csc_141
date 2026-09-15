@@ -1,4 +1,7 @@
 # This is my work (^_^)
+# All of this is written by me
+# Aaron Cribbin
+
 list= ["Ryan Gosling", "Markiplier", "Weird Al Yankovic", "Jim Carrey"]
 print("Jim Carrey can't make it to the dinner party.")
 list[3] = "Mathew McConaughey"

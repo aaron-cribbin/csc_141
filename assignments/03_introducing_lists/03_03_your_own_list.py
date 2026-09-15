@@ -1,4 +1,6 @@
 # This is my work (^_^)
+# All of this is written by me
+# Aaron Cribbin
 
 boats = ['Cruise Ship', 'Cargo Ship', 'Fishing Boat', 'Speedboat']
 
