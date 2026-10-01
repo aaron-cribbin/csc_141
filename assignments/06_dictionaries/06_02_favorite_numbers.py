@@ -7,8 +7,15 @@ favorite_numbers = {'Josh' : 27 ,
                     'Carl' : 2 , 
                     'Jamie' : 5 , 
                     'Riley' : 50}
-print(favorite_numbers['Josh'])
-print(favorite_numbers['Amy'])
-print(favorite_numbers['Carl'])
-print(favorite_numbers['Jamie'])
-print(favorite_numbers['Riley'])
+#giving values to the numbers for the text
+number_a = favorite_numbers['Josh']
+number_b = favorite_numbers['Amy']
+number_c = favorite_numbers['Carl']
+number_d = favorite_numbers['Jamie']
+number_e = favorite_numbers['Riley']
+
+print(f"Josh's favorite number is {number_a}")
+print(f"Amy's favorite number is {number_b}")
+print(f"Carl's favorite number is {number_c}")
+print(f"Jamie's favorite number is {number_d}")
+print(f"Riley's favorite number is {number_e}")
