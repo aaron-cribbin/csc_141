@@ -1,3 +1,9 @@
-# This is my work (^_^)
-# All of this is written by me
-# Aaron Cribbin
+#This is the ranting of a mad man
+
+"""
+WHAT DO YOU MEAN I HAVE TO "CREATE" A NEW METHOD!? I'M LEARNING THIS, TEACH ME HOW TO DO IT BOOK!?!?!? YOU ARE SUPPOSED TO HELP ME,
+NOT RANDOMS ONLINE!?!? WHAT INSTRUCTIONAL BOOK JUST THROWS SOMETHING AT YOU WITH NO CLUE ON WHAT TO DO AND SAY "YOU'LL FIGURE IT OUT"!?!?!? I AM
+GOING INSANE FROM NOT HAVING INSTRUCTIONS ON WHAT I'M DOING WRONG, WHAT I NEED TO DO, AND WHAT IS WRONG WITH THE CODE I TOOK FROM THE BOOK!?!?
+
+I'm tired. This probably isn't going to be completed, so if you see this, go easy with the grading. I'm broken and want to go to sleep. :(
+"""
