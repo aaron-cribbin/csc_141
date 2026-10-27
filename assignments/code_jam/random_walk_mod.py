@@ -22,7 +22,7 @@ class RandomWalk:
             x_step = x_direction * x_distance
 
             y_direction = choice([2, -2])
-            y_distance = choice([0])
+            y_distance = choice([10, -10])
             y_step = y_direction * y_distance
 
             if x_step == 0 and y_step ==0:
